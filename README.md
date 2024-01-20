@@ -25,6 +25,7 @@ This project is a web-based restaurant menu application, designed to enhance the
 2. Install dependencies for both frontend and backend
    ```
    cd restaurant-menu-project/frontend
+   cd cezar-bar
    npm install
    cd ../backend
    npm install
@@ -35,12 +36,10 @@ This project is a web-based restaurant menu application, designed to enhance the
    // For frontend
    cd frontend
    cd cezar-bar
-   npm i
    npm run dev
 
    // For backend
    cd backend
-   npm i
    npm start
    ```
 
