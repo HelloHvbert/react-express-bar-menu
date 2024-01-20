@@ -42,7 +42,7 @@ This project is a web-based restaurant menu application, designed to enhance the
    ```
 
 ## Usage
-Navigate to the frontend server URL (default: http://localhost:3000) to view the menu, manage your cart, and place orders. Backend API can be accessed for data management at http://localhost:5000.
+Navigate to the frontend server URL (default: http://localhost:5173) to view the menu, manage your cart, and place orders. Backend API can be accessed for data management at http://localhost:3000.
 
 ## Contributing
 Contributions to the project are welcome. Please fork the repository and submit a pull request for any enhancements, bug fixes, or features.
