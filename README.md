@@ -34,10 +34,13 @@ This project is a web-based restaurant menu application, designed to enhance the
    ```
    // For frontend
    cd frontend
-   npm start
+   cd cezar-bar
+   npm i
+   npm run dev
 
    // For backend
    cd backend
+   npm i
    npm start
    ```
 
